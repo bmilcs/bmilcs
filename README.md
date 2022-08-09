@@ -2,13 +2,7 @@
 
 I'm Bryan, an aspiring full stack web developer.
 
-🔭 I’m currently working on:
-- The Odin Project
-
-🌱 I’m currently learning:
-- HTML
-- CSS
-- JavaScript
+🔭 I’m currently working on completing the Odin Project, which focuses on HTML, CSS & JavaScript. Follow along with [my progress](https://github.com/bmilcs/op).
 
 <!--
 **bmilcs/bmilcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

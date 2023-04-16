@@ -4,11 +4,11 @@ I'm Bryan, an aspiring full stack web developer.
 
 🔭 I’m currently working on completing the Odin Project, which focuses on the fundamentals of modern web development. Follow along with [**my progress**](https://github.com/bmilcs/op).
 
-Check out my **[portfolio here](https://www.bmilcs.com)**.
+Check out my **[portfolio here ⚡](https://www.bmilcs.com)**.
 
 ## Featured Project:
 
-The Comedy DB: [Repo](https://github.com/bmilcs/odin-javascript-final-project) | [Live](https://comedy.bmilcs.com)
+**The Comedy DB** ✨ [Repo](https://github.com/bmilcs/odin-javascript-final-project) | [Live](https://comedy.bmilcs.com)
 
 ![comedy db](./comedy/home-page.jpg)
 

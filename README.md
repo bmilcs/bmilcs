@@ -1,8 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Bryan, an aspiring full stack web developer.
 
-🔭 I’m currently working on completing the Odin Project, which focuses on HTML, CSS & JavaScript. Follow along with my progress [**here**](https://github.com/bmilcs/op).
+🔭 I’m currently working on completing the Odin Project, which focuses on the fundamentals of modern web development. Follow along with [**my progress**](https://github.com/bmilcs/op).
+
+Check out my **[portfolio here](https://www.bmilcs.com)**.
+
+## Featured Project:
+
+The Comedy DB: [Repo](https://github.com/bmilcs/odin-javascript-final-project) | [Live](https://comedy.bmilcs.com)
+
+![comedy db](./comedy/home-page.jpg)
+
+> Home Page
+
+![comedy db](./comedy/comedian-page.jpg)
+
+> Comedian page
 
 <!--
 **bmilcs/bmilcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

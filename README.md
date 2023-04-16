@@ -2,7 +2,7 @@
 
 I'm Bryan, an aspiring full stack web developer.
 
-🔭 I’m currently working on completing the Odin Project, which focuses on the fundamentals of modern web development. Follow along with [**my progress**](https://github.com/bmilcs/op).
+🔭 I’m currently working on completing the NodeJS section in the Odin Project, which focuses on the fundamentals of modern web development. Follow along with [**my progress**](https://github.com/bmilcs/op).
 
 Check out my **[portfolio here ⚡](https://www.bmilcs.com)**.
 

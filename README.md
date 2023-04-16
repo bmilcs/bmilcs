@@ -6,6 +6,8 @@ I'm Bryan, an aspiring full stack web developer.
 
 Check out my **[portfolio here ⚡](https://www.bmilcs.com)**.
 
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,sass,nodejs,webpack,firebase,figma,jest&perline=12)](https://skillicons.dev)
+
 ## Featured Project:
 
 **The Comedy DB** ✨ [Repo](https://github.com/bmilcs/odin-javascript-final-project) | [Live](https://comedy.bmilcs.com)

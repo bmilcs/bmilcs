@@ -2,23 +2,25 @@
 
 I'm Bryan, an aspiring full stack web developer.
 
-🔭 I’m currently working on completing the NodeJS section in the Odin Project, which focuses on the fundamentals of modern web development. Follow along with [**my progress**](https://github.com/bmilcs/op).
-
 Check out my **[portfolio here ⚡](https://www.bmilcs.com)**.
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,sass,nodejs,webpack,firebase,figma,jest&perline=12)](https://skillicons.dev)
+🔭 I’m currently working on completing the NodeJS section in the Odin Project, which focuses on the fundamentals of frontend and backend web development. Follow along with [**my progress here**](https://github.com/bmilcs/op).
 
-## Featured Project:
+## Skills
 
-**The Comedy DB** ✨ [Repo](https://github.com/bmilcs/odin-javascript-final-project) | [Live](https://comedy.bmilcs.com)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,typescript,javascript,html,css,sass,nodejs,firebase,webpack,babel,jest,git,vscode,vim,figma&perline=8)](https://skillicons.dev)
 
-![comedy db](./comedy/home-page.jpg)
+## Featured Projects
 
-> Home Page
+- **The Comedy DB** ✨ [Repo](https://github.com/bmilcs/odin-javascript-final-project) | [Live](https://comedy.bmilcs.com)
 
-![comedy db](./comedy/comedian-page.jpg)
+  ![comedy db](./comedy/home-page.jpg)
 
-> Comedian page
+  > Home Page
+
+  ![comedy db](./comedy/comedian-page.jpg)
+
+  > Comedian page
 
 <!--
 **bmilcs/bmilcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

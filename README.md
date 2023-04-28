@@ -4,7 +4,11 @@ I'm Bryan, an aspiring full stack web developer.
 
 ⚡ Check out my **[portfolio here](https://www.bmilcs.com)**.
 
-🔭 I’m currently working on the **NodeJS** section in the Odin Project curriculum. The Odin Project focuses on the fundamentals of frontend and backend web development. Follow along with [**my progress here**](https://github.com/bmilcs/op).
+✨ Follow along with [**my Odin Project progress here**](https://github.com/bmilcs/op).
+
+🔭 I’m currently applying for junior web developer jobs as I work through the Odin Project's [**NodeJS course**](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs).
+
+> The Odin Project is a free, open-source curriculum for learning modern web development. It's awesome!
 
 ## My Skills
 
@@ -18,23 +22,21 @@ I'm Bryan, an aspiring full stack web developer.
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bmilcs)
 
-## Featured Projects
+## ✨ **My Portfolio** ✨ [Repo](https://github.com/bmilcs/bmilcs.github.io) / [Live](https://bmilcs.com)
 
-✨ **My Portfolio** ✨ [Repo](https://github.com/bmilcs/bmilcs.github.io) | [Live](https://bmilcs.com)
+> Featuring TypeScript, React, SASS, Transitions & Animations, Accessibility, Semantic HTML & Custom Form Validation
 
-> Featuring TypeScript, React, SASS Animations, Accessibility, Semantic HTML & Custom Form Validation
+![Portfolio Hero](portfolio/hero.png)
 
-![Portfolio Hero](portfolio/hero.png);
+![Portfolio About](portfolio/about.png)
 
-![Portfolio About](portfolio/about.png);
+![Portfolio Portfolio](portfolio/portfolio.png)
 
-![Portfolio Portfolio](portfolio/portfolio.png);
+![Portfolio Contact](portfolio/contact.png)
 
-![Portfolio Contact](portfolio/contact.png);
+## ✨ **The Comedy DB** ✨ [Repo](https://github.com/bmilcs/odin-javascript-final-project) | [Live](https://comedy.bmilcs.com)
 
-✨ **The Comedy DB** ✨ [Repo](https://github.com/bmilcs/odin-javascript-final-project) | [Live](https://comedy.bmilcs.com)
-
-> Technology Used: TypeScript, React, Redux, NodeJS, Firebase
+> Technology Used: TypeScript, React, Redux, NodeJS, Firebase: FireStore, Cloud Functions, Authentication, TMDB API
 
 ![comedy db home](./comedy/home-page.jpg)
 
@@ -42,7 +44,17 @@ I'm Bryan, an aspiring full stack web developer.
 
 ![comedy db comedian](./comedy/comedian-page.jpg)
 
-> Comedian page
+> Special Page
+
+![comedy db special](./comedy/desktop_special.png)
+
+> Notifications
+
+![comedy db notifications](./comedy/tablet_notifications.png)
+
+> Search
+
+![comedy db search](./comedy/tablet_searchbar.png)
 
 <!--
 **bmilcs/bmilcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

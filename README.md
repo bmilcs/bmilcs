@@ -20,13 +20,27 @@ I'm Bryan, an aspiring full stack web developer.
 
 ## Featured Projects
 
+✨ **My Portfolio** ✨ [Repo](https://github.com/bmilcs/bmilcs.github.io) | [Live](https://bmilcs.com)
+
+> Featuring TypeScript, React, SASS Animations, Accessibility, Semantic HTML & Custom Form Validation
+
+![Portfolio Hero](portfolio/hero.png);
+
+![Portfolio About](portfolio/about.png);
+
+![Portfolio Portfolio](portfolio/portfolio.png);
+
+![Portfolio Contact](portfolio/contact.png);
+
 ✨ **The Comedy DB** ✨ [Repo](https://github.com/bmilcs/odin-javascript-final-project) | [Live](https://comedy.bmilcs.com)
 
-![comedy db](./comedy/home-page.jpg)
+> Technology Used: TypeScript, React, Redux, NodeJS, Firebase
+
+![comedy db home](./comedy/home-page.jpg)
 
 > Home Page
 
-![comedy db](./comedy/comedian-page.jpg)
+![comedy db comedian](./comedy/comedian-page.jpg)
 
 > Comedian page
 
